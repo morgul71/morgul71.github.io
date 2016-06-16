@@ -36,6 +36,7 @@ tags: [tips, work]
 - [Build A Blog With Jekyll And GitHub Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
 - [How I’m Using Jekyll in 2016](https://mademistakes.com/articles/using-jekyll-2016/)
 - [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+- [Building a Style Guide with Jekyll](https://mademistakes.com/articles/jekyll-style-guide/)
 - [http://jekyllthemes.org/](http://jekyllthemes.org/)
 - [Lanyon Theme](http://lanyon.getpoole.com/)
 - [놀부의 마크다운 사용법 - 무료 툴을 중심으로 한 워크플로우](http://nolboo.kim/blog/2014/04/15/how-to-use-markdown/)
