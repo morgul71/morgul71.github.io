@@ -22,9 +22,10 @@ Many WAHPs start home-based businesses in order to care for their children while
 
 ## 추가로 해야할 것들
 
-The Fusion Festival combines all styles of the underground electronic music scene and various other styles, sometimes depending on the attendees who choose to play their own music. It is described as a space people go to free their minds from their everyday lives, jobs, studies and other responsibilities. It is the result of the search for an alternative through music, to the system "people are forced to live in". People go to the Fusion to experience a different way of socializing and living, where experiencing one another freely, sharing love for music and art connects different scenes and minds. It is a clothing-optional event. Art installations include performance arts, static artworks, sculptures, art cars and various other forms.
+- 기존 블로그 글 옮겨오기
+- 한글폰트 적용
+- 글 분류 및 방향성 정립
 
-Fusion Festival began in 1997 near the city of Lärz in north-eastern Germany, about 160 km from Berlin and 230 km from Hamburg.
 
 ## 참고한 또는 해야할 글 모음
 
