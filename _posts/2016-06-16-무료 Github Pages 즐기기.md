@@ -33,3 +33,4 @@ Many WAHPs start home-based businesses in order to care for their children while
 - [Windows에서 Jekyll 이용해 Github 블로그 만들기(1)](http://hochulshin.com/how-to-use-jekyll-on-github-1/)
 - [완전 초보를 위한 깃허브](http://nolboo.kim/blog/2013/10/06/github-for-beginner/)
 - [How I’m Using Jekyll in 2016](https://mademistakes.com/articles/using-jekyll-2016/)
+- [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
