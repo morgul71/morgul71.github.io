@@ -2,7 +2,7 @@
 layout: page
 title: About this blog
 description: An optional about page for BlogInn Jekyll theme
-banner_image: aboutPage.jpg
+banner_image: aboutPage-1.jpg
 ---
 
 **SKYDANCER** 는 특별한 의미를 두기보다는 중복을 피하기 위하여 만든 아이디 입니다. 또한 한 밴드의 앨범명이기도 합니다.
