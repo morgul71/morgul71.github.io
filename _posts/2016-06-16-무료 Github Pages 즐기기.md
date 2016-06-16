@@ -37,3 +37,5 @@ Many WAHPs start home-based businesses in order to care for their children while
 - [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 - [http://jekyllthemes.org/](http://jekyllthemes.org/)
 - [Lanyon Theme](http://lanyon.getpoole.com/)
+- [놀부의 마크다운 사용법 - 무료 툴을 중심으로 한 워크플로우](http://nolboo.kim/blog/2014/04/15/how-to-use-markdown/)
+- [마크다운(Markdown)으로 글을 써보자](http://blog.kalkin7.com/2014/02/10/lets-write-using-markdown/#fn-53-1)
