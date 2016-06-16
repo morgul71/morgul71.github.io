@@ -11,14 +11,14 @@ tags: [tips, work]
 윗글도 작성된지가 오래된 글이긴 하지만 기본적으로 간편하게 Github Pages를 이용하는데 충분한 가이드가 됨. 
 또한 워드프레스 등 굳건히 자리잡고 있는 블로깅툴들이 아주 훌륭하긴 하지만 점점 복잡해지는 구조 및 사용법(물론 간결한 테마와 소수의 플러그인만 사용한다면 문제없긴 함)과 대비되는 Github Pages의 장점을 살린다면 좀 더 게시글에만 집중할 수 있는 환경이 될 수 있을 것 같다.
 
+<!--more-->
+
 또한 설치형과 가입형 블로그를 나누어 생각해보면 설치형은 기본적으로 별도의 서버 환경을 구축(호스팅 업체 이용 또는 자가 서버)해야하는 점은 데이타 축적량이 소량일때는 부담이 없지만 점점 늘어날수록 지속적인 비용지출의 증대가 발생하며 또한 서버환경을 꾸준이 관리해야하는  부담이 증대된다. 가입형은 국내의 경우 티스토리나 네이버 등이 분명히 편리하게 서비스를 제공하고는 있지만 그에 따른 자유도의 제한 등이 심리적 거리감을 두게 만든다.
 
 이런 비교점은 일몰님의 또다른 글 ["난 10년된 워드프레스에서 Jekyll로 마이그레이션"](http://ilmol.com/2015/01/%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4%EC%97%90%EC%84%9C-Jekyll%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98.html)을 보면 자세히 언급되어 있으니 참고하길 바랍니다.
 
 
-<!--more-->
 
-Many WAHPs start home-based businesses in order to care for their children while still creating income. The desire to care for one's own children, the incompatibility of a 9-to-5 work day with school hours or sick days, and the expense of childcare prompt many parents to change or leave their jobs in the workforce to be available to their children. Many WAHPs build a business schedule that can be integrated with their parenting duties.
 
 ## 추가로 해야할 것들
 
