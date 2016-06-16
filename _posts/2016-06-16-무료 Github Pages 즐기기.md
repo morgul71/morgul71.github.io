@@ -35,3 +35,4 @@ Many WAHPs start home-based businesses in order to care for their children while
 - [How I’m Using Jekyll in 2016](https://mademistakes.com/articles/using-jekyll-2016/)
 - [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 - [http://jekyllthemes.org/](http://jekyllthemes.org/)
+- [Lanyon Theme](http://lanyon.getpoole.com/)
