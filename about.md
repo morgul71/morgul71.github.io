@@ -5,9 +5,7 @@ description: An optional about page for BlogInn Jekyll theme
 banner_image: aboutPage.jpg
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
-
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+**SKYDANCER** 는 특별한 의미를 두기보다는 중복을 피하기 위하여 만든 아이디 입니다. 또한 한 밴드의 앨범명이기도 합니다.
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
