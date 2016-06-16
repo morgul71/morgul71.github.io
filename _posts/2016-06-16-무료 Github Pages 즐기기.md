@@ -25,3 +25,4 @@ Fusion Festival began in 1997 near the city of Lärz in north-eastern Germany, a
 ## 참고한 또는 해야할 글 모음
 
 - [Jekyll,Git 을 몰라도 무료 Github Pages 즐기기](http://ilmol.com/2015/01/Jekyll,Git-%EC%9D%84-%EB%AA%B0%EB%9D%BC%EB%8F%84-%EB%AC%B4%EB%A3%8C-Github-Pages-%EC%A6%90%EA%B8%B0%EA%B8%B0.html)
+-[Windows에서 Jekyll 이용해 Github 블로그 만들기(1)](http://hochulshin.com/how-to-use-jekyll-on-github-1/)
