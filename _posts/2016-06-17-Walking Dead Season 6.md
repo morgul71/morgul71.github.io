@@ -12,7 +12,7 @@ tags: [drama, 미국드라마]
 
 <!--more-->
 
-{% include imageurl="/images/posts/walkingdead-002.jpg" title="The Walking Dead 원작 만화 중" caption="The Walking Dead" %}
+{% include imageurl="/images/posts/walkingdead-002.jpg" title="The Walking Dead 원작 만화 중" caption="The Walking Dead" align="left" %}
 
 ![walkingdead-002](https://cloud.githubusercontent.com/assets/17419778/16142321/3c65a480-349f-11e6-9305-624d8e34130b.jpg) {.alignleft} 이 드라마의 원작은 Robert Kirkman의 The Walking Dead 라는 만화입니다. [나무위키 참조하기](https://namu.wiki/w/%EC%9B%8C%ED%82%B9%20%EB%8D%B0%EB%93%9C(%EB%A7%8C%ED%99%94))
 
