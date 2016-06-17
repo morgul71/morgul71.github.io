@@ -25,6 +25,4 @@ tags: [drama, 미국드라마]
 
 
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/ihoAaJXL6c4?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
 
