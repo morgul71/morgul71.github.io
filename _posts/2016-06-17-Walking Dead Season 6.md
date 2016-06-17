@@ -12,7 +12,7 @@ tags: [drama, 미국드라마]
 
 <!--more-->
 
-![walkingdead-002](https://cloud.githubusercontent.com/assets/17419778/16142321/3c65a480-349f-11e6-9305-624d8e34130b.jpg) {.alignleft} 이 드라마의 원작은 Robert Kirkman의 The Walking Dead 라는 만화입니다. [나무위키 참조하기](https://namu.wiki/w/%EC%9B%8C%ED%82%B9%20%EB%8D%B0%EB%93%9C(%EB%A7%8C%ED%99%94))
+![walkingdead-002](https://cloud.githubusercontent.com/assets/17419778/16142321/3c65a480-349f-11e6-9305-624d8e34130b.jpg) 이 드라마의 원작은 Robert Kirkman의 The Walking Dead 라는 만화입니다. [나무위키 참조하기](https://namu.wiki/w/%EC%9B%8C%ED%82%B9%20%EB%8D%B0%EB%93%9C(%EB%A7%8C%ED%99%94))
 
 이 드라마의 중심에는 릭이 이끄는 일행이 각종 사건과 사고 등을 겪으며 생존이 가능한 장소들로 이동하면서 이야기를 이끌어 나갑니다.
 초반에는 친구의 배신 등 가까운 인간관계에서 출발하여 시간 및 장소가 바뀌어 가면서 중심인물은 유지하되 에피소드에 맞는 인물들은 등장 및 소멸을 거듭하면서 각 에피소드를 끌고 나갑니다.
