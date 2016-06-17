@@ -35,4 +35,4 @@ tags: [drama, 미국드라마]
 ## 관련 정보 찾아보기
 - [나무위키 워킹데드 관련 글](https://namu.wiki/w/%EC%9B%8C%ED%82%B9%20%EB%8D%B0%EB%93%9C(%EB%93%9C%EB%9D%BC%EB%A7%88))
 - [나무위키 워킹데드 만화 원작 관련 글](https://namu.wiki/w/%EC%9B%8C%ED%82%B9%20%EB%8D%B0%EB%93%9C(%EB%A7%8C%ED%99%94))
-- [나무위키 워킹데드 관련 글](https://namu.wiki/w/%EC%9B%8C%ED%82%B9%20%EB%8D%B0%EB%93%9C(%EB%93%9C%EB%9D%BC%EB%A7%88))
+- [원작만화 리뷰 블로그](http://blog.naver.com/sonjunbo)
