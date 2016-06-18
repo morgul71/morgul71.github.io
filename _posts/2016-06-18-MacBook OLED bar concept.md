@@ -18,6 +18,6 @@ tags: [Macbook, Mac]
 
 {% include image_caption.html imageurl="/images/posts/macbook-oled-spotify.jpg" title="MacBook Oled Spotify" caption="MacBook Oled Spotify" %}
 
-실제 제춤이 어떻게 출시될지는 모르지만 일단 예상 이미지를 보면 이미 개발된 여러 기술들을 조합하는 애플의 능력이 다시 한 번 돋보이는 것 같습니다.   
+실제 제품이 어떻게 출시될지는 모르지만 일단 예상 이미지를 보면 이미 개발된 여러 기술들을 조합하는 애플의 능력이 다시 한 번 돋보이는 것 같습니다.   키보드 상단을 가로지르는 OLED의 모습이 무척이나 매력적입니다. 
 
 {% include image_caption.html imageurl="/images/posts/macbook-oled-torrent.jpg" title="MacBook Oled Torrent" caption="MacBook Oled Torrent" %}
