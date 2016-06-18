@@ -12,3 +12,4 @@ tags: [Macbook, Mac]
 
 <!--more-->
 
+{% include image_full.html imageurl="/images/posts/macbook-oled-spotify.jpg" title="Walking Dead" caption="Walking Dead" %}
