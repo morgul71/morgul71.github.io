@@ -12,4 +12,6 @@ tags: [Macbook, Mac]
 
 <!--more-->
 
-{% include image_full.html imageurl="/images/posts/macbook-oled-spotify.jpg" title="Walking Dead" caption="Walking Dead" %}
+
+
+{% include image_caption.html imageurl="/images/posts/macbook-oled-spotify.jpg" title="MacBook Oled Spotify" caption="MacBook Oled Spotify" %}
