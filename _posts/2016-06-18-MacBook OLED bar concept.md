@@ -14,7 +14,4 @@ tags: [Macbook, Mac]
 
 
 
-{% include image_caption.html imageurl="/images/posts/macbook-oled-spotify.jpg" title="MacBook Oled Spotify" caption="MacBook Oled Spotify" %}
-
-
-{% include image_caption.html imageurl="/images/posts/macbook-oled-torrent.jpg" title="MacBook Oled Torrent" caption="MacBook Oled Torrent" %}
+{% include image_caption.html imageurl="/images/posts/macbook-oled-spotify.jpg" title="MacBook Oled Spotify" caption="MacBook Oled Spotify" %}{% include image_caption.html imageurl="/images/posts/macbook-oled-torrent.jpg" title="MacBook Oled Torrent" caption="MacBook Oled Torrent" %}
