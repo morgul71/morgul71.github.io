@@ -20,7 +20,7 @@ tags: [Macbook, Mac]
 
 {% include image_caption.html imageurl="/images/posts/macbook-oled-spotify.jpg" title="MacBook Oled Spotify" caption="MacBook Oled Spotify" %}
 
-실제 제품이 어떻게 출시될지는 모르지만 일단 예상 이미지를 보면 이미 개발된 여러 기술들을 조합하는 애플의 능력이 다시 한 번 돋보이는 것 같습니다.   키보드 상단을 가로지르는 OLED의 모습이 무척이나 매력적입니다. OLED Bar는 예상 이미지처럼 펑션키 기능뿐만이 아니라 실행되는 앱의 정보 및 간단한 조작도 가능할 것으로 보입니다. 애플도 당연히 활용성을 극대화하여 제품을 출시할 것으로 예상되며 또한 기대하고 있습니다.  
+실제 제품이 어떻게 출시될지는 모르지만 일단 예상 이미지를 보면 이미 개발된 여러 기술들을 조합하는 애플의 능력이 다시 한 번 돋보일 것 같습니다. 키보드 상단을 가로지르는 OLED의 모습이 무척이나 매력적입니다. OLED Bar는 예상 이미지처럼 펑션키 기능뿐만이 아니라 실행되는 앱의 정보 및 간단한 조작도 가능할 것으로 보입니다. 애플도 당연히 활용성을 극대화하여 제품을 출시할 것으로 예상되며 또한 기대하고 있습니다.  
 
 {% include image_caption.html imageurl="/images/posts/macbook-oled-torrent.jpg" title="MacBook Oled Torrent" caption="MacBook Oled Torrent" %}
 
