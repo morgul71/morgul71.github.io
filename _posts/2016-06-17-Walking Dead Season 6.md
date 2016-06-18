@@ -30,7 +30,7 @@ tags: [drama, 미국드라마]
 
 ![walkingdead-003](https://cloud.githubusercontent.com/assets/17419778/16143954/0b80c5f0-34ab-11e6-9e19-92491b8ca2e4.jpg)
 
-
+{% include image_full.html imageurl="/images/posts/walkingdead-005.PNG" title="Walking Dead" caption="Walking Dead" %}
 
 ## 관련 정보 찾아보기
 - [나무위키 워킹데드 관련 글](https://namu.wiki/w/%EC%9B%8C%ED%82%B9%20%EB%8D%B0%EB%93%9C(%EB%93%9C%EB%9D%BC%EB%A7%88))
