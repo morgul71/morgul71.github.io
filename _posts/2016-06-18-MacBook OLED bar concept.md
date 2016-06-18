@@ -12,7 +12,7 @@ tags: [Macbook, Mac]
 
 <!--more-->
 
-
+>“A KGI analyst report from two weeks ago broke the news that a new Apple MacBook, due later in the year, would debut a new OLED touch screen technology above the keyboard that will replace the function row keys. A leaked shell of a MacBook days later seemed to at least confirm the report along with showing 2 USB-C ports on the sides and a huge touchpad. The MacBook OLED bar rumor has been a controversial one for us and many of you generating lots of opinions..” <cite>― 9to5mac.com</cite>
 
 {% include image_caption.html imageurl="/images/posts/macbook-oled-spotify.jpg" title="MacBook Oled Spotify" caption="MacBook Oled Spotify" %}
 
