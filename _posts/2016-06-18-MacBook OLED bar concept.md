@@ -8,7 +8,7 @@ tags: [Macbook, Mac]
 
 [출처 : MacBook OLED bar concept with multiple USB-C ports & monster trackpad…just…take my money](http://9to5mac.com/2016/06/09/macbook-oled-bar-concept-with-multiple-usb-c-ports-monster-trackpad-just-take-my-money/)
 
-9to5mac.com에서 새롭게 출시되는 애플의 맥북에 적용될 것으로 보이는 OLED Bar의 이미지를 공개했습니다. 물론 실제 제품은 아직 출시가 되지 않았으나 기존의 부품의 디자인이 유출되면서 ([관련 글 보기](http://9to5mac.com/2016/05/31/new-macbook-pro-oled-touch-bar-usb-c-images/)) 신제품에 적용될 OLED Bar의 예측 이미지를 공개한 것입니다.
+9to5mac.com에서 새롭게 출시되는 애플의 맥북에 적용될 것으로 보이는 OLED Bar의 이미지를 공개했습니다. 이 이미지는 [Martin Hajek](http://www.martinhajek.com/macbook-meets-oled/)이 작업하여 공개한 랜더링 이미지입니다.  물론 실제 제품은 아직 출시가 되지 않았으나 새로운 맥북의 부품 디자인이 유출되면서 ([관련 글 보기](http://9to5mac.com/2016/05/31/new-macbook-pro-oled-touch-bar-usb-c-images/)) 신제품에 적용될 OLED Bar의 예측 이미지를 공개한 것입니다.
 
 <!--more-->
 
