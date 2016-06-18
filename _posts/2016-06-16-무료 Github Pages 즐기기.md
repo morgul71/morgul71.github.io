@@ -2,7 +2,7 @@
 layout: post
 title:  "무료 Github Pages 즐기기"
 date:   2016-06-16
-banner_image: Desk.jpg
+banner_image: githubpages.png
 tags: [tips, work]
 ---
 
