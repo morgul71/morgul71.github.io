@@ -26,7 +26,7 @@ tags: [tips, work]
 - [ ]한글폰트 적용
 - [ ]글 분류 및 방향성 정립
 - [ ]독립 개인 소유 도메인 연결
-- [x]Disqus 적용하기 [참고글](http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/)
+-[x]Disqus 적용하기 [참고글](http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/)
 
 
 ## 참고한 또는 해야할 글 모음
