@@ -22,11 +22,11 @@ tags: [tips, work]
 
 ## 추가로 해야할 것들
 
-- 기존 블로그 글 옮겨오기
-- 한글폰트 적용
-- 글 분류 및 방향성 정립
-- 독립 개인 소유 도메인 연결
-- Disqus 적용하기 [참고글](http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/)
+- [ ]기존 블로그 글 옮겨오기
+- [ ]한글폰트 적용
+- [ ]글 분류 및 방향성 정립
+- [ ]독립 개인 소유 도메인 연결
+- [x]Disqus 적용하기 [참고글](http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/)
 
 
 ## 참고한 또는 해야할 글 모음
