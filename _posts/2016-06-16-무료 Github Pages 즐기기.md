@@ -17,19 +17,14 @@ tags: [tips, work]
 
 이런 비교점은 일몰님의 또다른 글 ["난 10년된 워드프레스에서 Jekyll로 마이그레이션"](http://ilmol.com/2015/01/%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4%EC%97%90%EC%84%9C-Jekyll%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98.html)을 보면 자세히 언급되어 있으니 참고하길 바랍니다.
 
-But I have to admit, tasks lists are my favorite:
-
-- [x] This is a complete item
-- [ ] This is an incomplete item
-
 
 ## 추가로 해야할 것들
 
-- [ ]기존 블로그 글 옮겨오기
-- [ ]한글폰트 적용
-- [ ]글 분류 및 방향성 정립
-- [ ]독립 개인 소유 도메인 연결
--[x]Disqus 적용하기 [참고글](http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/)
+- [ ] 기존 블로그 글 옮겨오기
+- [ ] 한글폰트 적용
+- [ ] 글 분류 및 방향성 정립
+- [ ] 독립 개인 소유 도메인 연결
+- [x] Disqus 적용하기 [참고글](http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/)
 
 
 ## 참고한 또는 해야할 글 모음
