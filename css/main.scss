@@ -1,7 +1,7 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import 
     "variables",
@@ -10,7 +10,7 @@
     "general"
 ;
 1
-@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
 /**
  * Table of Contents
  * ----------------------------------------------------------------------------
