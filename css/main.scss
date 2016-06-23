@@ -212,6 +212,19 @@
     margin-bottom: 60px;
     padding-bottom: 40px;
 }
+.post a {
+    /*color: $picton-blue;*/
+    color: #374273;
+    background-color: #FFF5F5;
+    text-decoration: none;
+    -webkit-transition: color 0.3s;
+    -moz-transition:    color 0.3s;
+    transition:         color 0.3s;
+    &:hover {
+        color: lighten( $picton-blue, 11% );
+    }
+}
+
 
 .post.featured {
     position: relative;
