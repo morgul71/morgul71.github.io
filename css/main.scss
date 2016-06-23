@@ -215,13 +215,13 @@
 .post a {
     /*color: $picton-blue;*/
     color: #BE2E2F;
-    background: #FFF5F5 underline dotted;
+    background-color: #FFF5F5;
     text-decoration: none;
     -webkit-transition: color 0.3s;
     -moz-transition:    color 0.3s;
     transition:         color 0.3s;
     &:hover {
-        color: lighten( $picton-blue, 11% );
+        color: #000;
     }
 }
 
