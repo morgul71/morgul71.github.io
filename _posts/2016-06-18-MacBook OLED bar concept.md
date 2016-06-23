@@ -24,4 +24,4 @@ tags: [Macbook, Mac]
 
 {% include image_caption.html imageurl="/images/posts/macbook-oled-torrent.jpg" title="MacBook Oled Torrent" caption="MacBook Oled Torrent" %}
 
-부품 유출에 따라 예상되는 트랙패드의 크기 확장이 어떤 변화를 줄 것인지(설마 트랙패드에서 애플펜이 가능할까?) , 실제로 이렇게 출시가 된다면 정말로 "Take My Money!"를 외칠 수고 있겠습니다. 그러나 그외 제품의 변화가 예측되는 맥세이프의 제거 등 다른 부분에서의 변화가 어떻게 확정되어 제품이 출시될 지 무척 궁금합니다.
+부품 유출에 따라 예상되는 트랙패드의 크기 확장이 어떤 변화를 줄 것인지(설마 트랙패드에서 애플펜이 가능할까?) , 실제로 이렇게 출시가 된다면 정말로 "Take My Money!"를 외칠 수도 있겠습니다. 그러나 그외 제품의 변화가 예측되는 맥세이프의 제거 등 다른 부분에서의 변화가 어떻게 확정되어 제품이 출시될 지 무척 궁금합니다.
