@@ -126,7 +126,7 @@ pre:before {
     -moz-osx-font-smoothing: grayscale;
 }
 
-blockquote {
+/*blockquote {
     border-left: 3px solid lighten( $picton-blue, 11% );
     color: lighten( $mine-shaft, 4% );
     font-size: 14px;
@@ -134,6 +134,13 @@ blockquote {
     line-height: 1.8;
     margin: 0 0 24px;
     padding-left: 30px;
+}*/
+
+blockquote {
+    background:#F4F5F7 url(images/blockquote.gif) 3px 3px no-repeat;
+    border:1px dashed #CCC;
+    padding:8px 12px 8px 36px;
+    margin:5px 20px;
 }
 
 blockquote cite,
