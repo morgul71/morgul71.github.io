@@ -12,18 +12,14 @@ textarea {
 }
 
 body {
-    font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif';
-    /*font-family: Helvetica, Arial, sans-serif;*/
     background-color: $mine-shaft;
-    color: #666;
+    color: #818181;
     line-height: 1.66667;
 }
 
 a {
-    /*color: $picton-blue;*/
-    color: #374273;
-    /*background-color: #FFF5F5;*/
-    text-decoration: none;
+    color: $picton-blue;
+    text-decoration: underline;
     -webkit-transition: color 0.3s;
     -moz-transition:    color 0.3s;
     transition:         color 0.3s;
@@ -46,13 +42,10 @@ h6 {
 
 h1 {
     font-size: 36px;
-    border-bottom:1px #333;
 }
 
 h2 {
     font-size: 30px;
-    text-decoration:underline #333;   
-    border-bottom:1px #333;
 }
 
 h3 {
@@ -127,28 +120,19 @@ pre:before {
     -moz-osx-font-smoothing: grayscale;
 }
 
-/*blockquote {
+blockquote {
     border-left: 3px solid lighten( $picton-blue, 11% );
     color: lighten( $mine-shaft, 4% );
-    font-size: 14px;
+    font-size: 20px;
     font-style: italic;
     line-height: 1.8;
     margin: 0 0 24px;
     padding-left: 30px;
-}*/
-
-blockquote {
-    background:#F4F5F7 url(images/blockquote.gif) 3px 3px no-repeat;
-    border:1px dashed #CCC;
-    padding:10px 36px 10px 36px;
-    margin:5px 20px;
-    margin-bottom:25px;
-    text-align:justify;
 }
 
 blockquote cite,
 blockquote small {
-    color: #BE3132;
+    color: $silver;
 }
 
 blockquote p {
@@ -528,7 +512,8 @@ green     #859900  operators, other keywords
 .author-info .author-title:before,
 .comments-title:before,
 .widget-title:before {
-    content: "— ";
+    content: "\2014";
+    margin-right: 1%;
 }
 
 /* Animations */
