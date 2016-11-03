@@ -9,9 +9,6 @@
     "reset",
     "general"
 ;
-/*@import url("http://fonts.googleapis.com/earlyaccess/notosanskr.css");*/
-@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css);
-@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-jp.css);
 
 /**
  * Table of Contents
@@ -138,7 +135,7 @@
     line-height: 1;
     margin-bottom: 12px;
     margin-right: 20px;
-    text-transform: none;
+    text-transform: uppercase;
 }
 
 .site-title a {
@@ -208,39 +205,9 @@
 
 .post {
     background-color: $white;
-    font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif';
-    /*font-family: "Apple SD Gothic Neo", 'Noto Sans', Helvetica, Arial, sans-serif;*/ 
-    /*font-family: "applesdgothicneo-ultralight","Apple SD Gothic Neo", 'Noto Sans', Helvetica, Arial, sans-serif; */
-    /*font-weight: 400;*/
-    /*font-family:applesdgothicneo-ultralight; font-weight:100*/
-    color: #1A1A1A;
-    font-size: 14px;
     margin-bottom: 60px;
     padding-bottom: 40px;
 }
-
-/*.post {
-    background-color: $white;
-    font-family: Tahoma,"굴림",Gulim,AppleSDGothicNeo,AppleGothic, sans-serif;
-    color: #222;
-    font-size: 12px;
-    margin-bottom: 60px;
-    padding-bottom: 40px;
-}*/
-
-.post a {
-    /*color: $picton-blue;*/
-    color: #BE2E2F;
-    /*background-color: #F2F8FF;*/
-    text-decoration: none;
-    -webkit-transition: color 0.3s;
-    -moz-transition:    color 0.3s;
-    transition:         color 0.3s;
-    &:hover {
-        color: #000;
-    }
-}
-
 
 .post.featured {
     position: relative;
@@ -249,7 +216,7 @@
 .post .featured-post {
     background-color: lighten( $picton-blue, 11% );
     color: $white;
-    font-size: 13px;
+    font-size: 14px;
     height: 30px;
     left: 0;
     line-height: 2.14286;
@@ -277,7 +244,7 @@
     clear: both;
     color: $white;
     float: left;
-    font-size: 28px;
+    font-size: 36px;
     margin: 60px 0 0;    
     max-width: 75%;
     padding: 30px;
@@ -403,7 +370,7 @@
 }
 
 .author-info {
-    font-size: 13px;
+    font-size: 16px;
     line-height: 1.5;
     min-height: 85px;
 }
